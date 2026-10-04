@@ -172,4 +172,6 @@ end"><children>
         self:accelerate(0.5)
         self:addy(500)
     end"/>
+
+    <Layer File="ScreenEvaluation widget uksrtScore" />
 </children> </ActorFrame>
