@@ -23,3 +23,4 @@ You should have received [a copy](COPYING.LESSER) of the GNU Lesser General Publ
 
 - This theme is based off the default StepMania 3.95 theme, copyright (c) 2005 StepMania, licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
 - This theme makes use of [NotITG compatibility edits](https://github.com/PoRa-dayo/PoRa-NotITG-Theme-Archive) by PoRa.
+- The UKSRT weights at BGAnimations/ScreenEvaluation_widget_uksrtScore.xml have been developed by TaroNuke.
